@@ -87,7 +87,7 @@ body {
 }
 
 .nav__links {
-    color: #fff;
+    color: #ccb38d;
     text-decoration: none;
 }
 
@@ -477,7 +477,7 @@ body {
     background-color: #8a0002;
     border: none;
     font-size: 1rem;
-    color: #fff;
+    color: #ccb38d;
     border-radius: 6px;
     cursor: pointer;
 }
