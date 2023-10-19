@@ -43,7 +43,7 @@ body {
     position: relative;
     display: grid;
     grid-template-rows: 100px 1fr;
-    color: #fff;
+    color: #ccb38d;
 }
 
 .hero::before {
@@ -133,7 +133,7 @@ body {
     display: inline-block;
     background-color: #8a0002;
     justify-self: center;
-    color: #fff;
+    color: ##ccb38d;
     text-decoration: none;
     padding: 13px 30px;
     border-radius: 32px;
@@ -183,7 +183,7 @@ body {
 /* Knowledge */
 
 .knowledge {
-    background-color: #e5e5f7;
+    background-color: #ccb38d;
     background-image: radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
     background-size: 20px 20px;
     background-position: 0 0, 10px 10px;
@@ -227,7 +227,7 @@ body {
 }
 
 .price__element{
-    background-color: #e5e5f7;
+    background-color: #ccb38d;
     text-align: center;
     border-radius: 10px;
     width: 330px;
@@ -328,8 +328,8 @@ body {
 }
 
 .testimony__course{
-    background-color: royalblue;
-    color: #fff;
+    background-color:;
+    color: #ccb38d;
     display: inline-block;
     padding: 5px;
 }
@@ -424,7 +424,7 @@ body {
 }
 
 .footer__title, .footer__newsletter{
-    color: #fff;
+    color: #ccb38d;
 }
 
 
@@ -432,7 +432,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #ccb38d;
     padding-bottom: 60px;
 }
 
@@ -458,7 +458,7 @@ body {
 }
 
 .footer__input{
-    background-color: #fff;
+    background-color: ##ccb38d;
     height: 50px;
     display: block;
     padding-left: 10px;
@@ -485,7 +485,7 @@ body {
 .footer__copy{
     --padding-container: 30px 0;
     text-align: center;
-    color: #fff;
+    color: #ccb38d;
 }
 
 .footer__copyright{
