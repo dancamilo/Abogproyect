@@ -131,9 +131,9 @@ body {
 
 .cta {
     display: inline-block;
-    background-color: #8a0002;
+    background-color: #ccb38d;
     justify-self: center;
-    color: ##ccb38d;
+    color: #ccb38d;
     text-decoration: none;
     padding: 13px 30px;
     border-radius: 32px;
@@ -328,7 +328,7 @@ body {
 }
 
 .testimony__course{
-    background-color:;
+    
     color: #ccb38d;
     display: inline-block;
     padding: 5px;
@@ -458,7 +458,7 @@ body {
 }
 
 .footer__input{
-    background-color: ##ccb38d;
+    background-color: #FFF;
     height: 50px;
     display: block;
     padding-left: 10px;
